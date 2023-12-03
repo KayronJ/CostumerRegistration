@@ -1,0 +1,20 @@
+﻿.form-control {
+    border: 1px solid #468AD9;
+    border-radius: 5px;
+}
+
+hr{
+}
+
+.card-img-top {
+    border-radius: 5px;
+    border: 1px solid #468AD9;  
+    width: 300px;
+    margin: 50px;
+}
+
+.card-body {
+    border-radius: 5px;
+    border: 1px solid #468AD9;
+}
+
